@@ -16,4 +16,5 @@
 
 ###> zikmiu ###
 /public/zikmiu*
+/tests/Command/testfiles
 ###< zikmiu ###
